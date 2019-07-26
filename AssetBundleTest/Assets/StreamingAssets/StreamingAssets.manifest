@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 1296299646
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test.u3d
+      Dependencies: {}
+    Info_1:
+      Name: prefanone.u3d
+      Dependencies:
+        Dependency_0: test.u3d
+    Info_2:
+      Name: prefabtwo.u3d
+      Dependencies:
+        Dependency_0: test.u3d

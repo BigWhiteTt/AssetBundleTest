@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4150748557
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9b538b717366daec3d8133226df351ed
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7947fc38ea891e9d90546fdc21c7522d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/prefab2.prefab
+Dependencies:
+- C:/Users/wanteng/Desktop/New Unity Project/Assets/StreamingAssets/test.u3d
